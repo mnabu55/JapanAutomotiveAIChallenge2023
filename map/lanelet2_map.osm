@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm generator="VMB">
-  <MetaInfo format_version="1" map_version="13"/>
+  <MetaInfo format_version="1" map_version="14"/>
   <node id="186" lat="45.62358179353931" lon="9.28174112541207">
     <tag k="mgrs_code" v="32TNR219522"/>
     <tag k="local_x" v="21963.326"/>
@@ -3325,6 +3325,30 @@
     <tag k="local_y" v="53027.1952"/>
     <tag k="ele" v="183.9229"/>
   </node>
+  <node id="7955" lat="45.63018983331337" lon="9.291339939244642">
+    <tag k="mgrs_code" v="32TNR227530"/>
+    <tag k="local_x" v="22708.9397"/>
+    <tag k="local_y" v="53001.6539"/>
+    <tag k="ele" v="184.0265"/>
+  </node>
+  <node id="7956" lat="45.63010578987451" lon="9.291340619971795">
+    <tag k="mgrs_code" v="32TNR227529"/>
+    <tag k="local_x" v="22709.0267"/>
+    <tag k="local_y" v="52992.3169"/>
+    <tag k="ele" v="184.1588"/>
+  </node>
+  <node id="7962" lat="45.630122257047674" lon="9.289565895769162">
+    <tag k="mgrs_code" v="32TNR225529"/>
+    <tag k="local_x" v="22570.6863"/>
+    <tag k="local_y" v="52993.6451"/>
+    <tag k="ele" v="183.9873"/>
+  </node>
+  <node id="7963" lat="45.630036562422134" lon="9.289569230153266">
+    <tag k="mgrs_code" v="32TNR225529"/>
+    <tag k="local_x" v="22570.9806"/>
+    <tag k="local_y" v="52984.1254"/>
+    <tag k="ele" v="184.0331"/>
+  </node>
   <way id="5758">
     <nd ref="1197"/>
     <nd ref="1208"/>
@@ -3879,88 +3903,9 @@
     <tag k="type" v="line_thin"/>
     <tag k="subtype" v="solid"/>
   </way>
-  <way id="7929">
-    <nd ref="289"/>
-    <nd ref="340"/>
-    <nd ref="346"/>
-    <nd ref="347"/>
-    <nd ref="348"/>
-    <nd ref="349"/>
-    <nd ref="350"/>
-    <nd ref="355"/>
-    <nd ref="404"/>
-    <nd ref="419"/>
-    <nd ref="420"/>
-    <nd ref="421"/>
-    <nd ref="434"/>
-    <nd ref="448"/>
-    <nd ref="450"/>
-    <nd ref="456"/>
-    <nd ref="460"/>
-    <nd ref="462"/>
-    <nd ref="466"/>
-    <nd ref="476"/>
-    <nd ref="485"/>
-    <nd ref="496"/>
-    <nd ref="501"/>
-    <nd ref="510"/>
-    <nd ref="518"/>
-    <nd ref="519"/>
-    <nd ref="520"/>
-    <nd ref="534"/>
-    <nd ref="543"/>
-    <nd ref="544"/>
-    <nd ref="552"/>
-    <nd ref="564"/>
-    <nd ref="571"/>
-    <nd ref="586"/>
-    <nd ref="7927"/>
-    <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
-  </way>
   <way id="7930">
     <nd ref="7927"/>
     <nd ref="661"/>
-    <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
-  </way>
-  <way id="7931">
-    <nd ref="2197"/>
-    <nd ref="2239"/>
-    <nd ref="2240"/>
-    <nd ref="2246"/>
-    <nd ref="2247"/>
-    <nd ref="2248"/>
-    <nd ref="2249"/>
-    <nd ref="2253"/>
-    <nd ref="2255"/>
-    <nd ref="2304"/>
-    <nd ref="2321"/>
-    <nd ref="2322"/>
-    <nd ref="2323"/>
-    <nd ref="2333"/>
-    <nd ref="2334"/>
-    <nd ref="2351"/>
-    <nd ref="2357"/>
-    <nd ref="2361"/>
-    <nd ref="2366"/>
-    <nd ref="2369"/>
-    <nd ref="2376"/>
-    <nd ref="2377"/>
-    <nd ref="2381"/>
-    <nd ref="2387"/>
-    <nd ref="2400"/>
-    <nd ref="2414"/>
-    <nd ref="2422"/>
-    <nd ref="2423"/>
-    <nd ref="2436"/>
-    <nd ref="2459"/>
-    <nd ref="2464"/>
-    <nd ref="2465"/>
-    <nd ref="2467"/>
-    <nd ref="2471"/>
-    <nd ref="2492"/>
-    <nd ref="7928"/>
     <tag k="type" v="line_thin"/>
     <tag k="subtype" v="solid"/>
   </way>
@@ -4016,15 +3961,6 @@
     <tag k="type" v="line_thin"/>
     <tag k="subtype" v="solid"/>
   </way>
-  <way id="7950">
-    <nd ref="661"/>
-    <nd ref="662"/>
-    <nd ref="664"/>
-    <nd ref="665"/>
-    <nd ref="7948"/>
-    <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
-  </way>
   <way id="7951">
     <nd ref="7948"/>
     <nd ref="696"/>
@@ -4034,9 +3970,39 @@
     <tag k="type" v="line_thin"/>
     <tag k="subtype" v="solid"/>
   </way>
-  <way id="7952">
+  <way id="7953">
+    <nd ref="7949"/>
+    <nd ref="2600"/>
+    <nd ref="2601"/>
+    <nd ref="2603"/>
+    <nd ref="2605"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="7957">
+    <nd ref="661"/>
+    <nd ref="7955"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="7958">
+    <nd ref="7955"/>
+    <nd ref="662"/>
+    <nd ref="664"/>
+    <nd ref="665"/>
+    <nd ref="7948"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="7959">
     <nd ref="2547"/>
     <nd ref="2561"/>
+    <nd ref="7956"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="7960">
+    <nd ref="7956"/>
     <nd ref="2566"/>
     <nd ref="2569"/>
     <nd ref="2578"/>
@@ -4044,12 +4010,94 @@
     <tag k="type" v="line_thin"/>
     <tag k="subtype" v="solid"/>
   </way>
-  <way id="7953">
-    <nd ref="7949"/>
-    <nd ref="2600"/>
-    <nd ref="2601"/>
-    <nd ref="2603"/>
-    <nd ref="2605"/>
+  <way id="7964">
+    <nd ref="289"/>
+    <nd ref="340"/>
+    <nd ref="346"/>
+    <nd ref="347"/>
+    <nd ref="348"/>
+    <nd ref="349"/>
+    <nd ref="350"/>
+    <nd ref="355"/>
+    <nd ref="404"/>
+    <nd ref="419"/>
+    <nd ref="420"/>
+    <nd ref="421"/>
+    <nd ref="434"/>
+    <nd ref="448"/>
+    <nd ref="450"/>
+    <nd ref="456"/>
+    <nd ref="460"/>
+    <nd ref="462"/>
+    <nd ref="466"/>
+    <nd ref="476"/>
+    <nd ref="485"/>
+    <nd ref="496"/>
+    <nd ref="501"/>
+    <nd ref="510"/>
+    <nd ref="518"/>
+    <nd ref="519"/>
+    <nd ref="520"/>
+    <nd ref="534"/>
+    <nd ref="543"/>
+    <nd ref="544"/>
+    <nd ref="552"/>
+    <nd ref="564"/>
+    <nd ref="571"/>
+    <nd ref="586"/>
+    <nd ref="7962"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="7965">
+    <nd ref="7962"/>
+    <nd ref="7927"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="7966">
+    <nd ref="2197"/>
+    <nd ref="2239"/>
+    <nd ref="2240"/>
+    <nd ref="2246"/>
+    <nd ref="2247"/>
+    <nd ref="2248"/>
+    <nd ref="2249"/>
+    <nd ref="2253"/>
+    <nd ref="2255"/>
+    <nd ref="2304"/>
+    <nd ref="2321"/>
+    <nd ref="2322"/>
+    <nd ref="2323"/>
+    <nd ref="2333"/>
+    <nd ref="2334"/>
+    <nd ref="2351"/>
+    <nd ref="2357"/>
+    <nd ref="2361"/>
+    <nd ref="2366"/>
+    <nd ref="2369"/>
+    <nd ref="2376"/>
+    <nd ref="2377"/>
+    <nd ref="2381"/>
+    <nd ref="2387"/>
+    <nd ref="2400"/>
+    <nd ref="2414"/>
+    <nd ref="2422"/>
+    <nd ref="2423"/>
+    <nd ref="2436"/>
+    <nd ref="2459"/>
+    <nd ref="2464"/>
+    <nd ref="2465"/>
+    <nd ref="2467"/>
+    <nd ref="2471"/>
+    <nd ref="2492"/>
+    <nd ref="7963"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="7967">
+    <nd ref="7963"/>
+    <nd ref="7928"/>
     <tag k="type" v="line_thin"/>
     <tag k="subtype" v="solid"/>
   </way>
@@ -4085,8 +4133,8 @@
     <tag k="participant:vehicle" v="yes"/>
   </relation>
   <relation id="5747">
-    <member type="way" role="left" ref="7929"/>
-    <member type="way" role="right" ref="7931"/>
+    <member type="way" role="left" ref="7964"/>
+    <member type="way" role="right" ref="7966"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
     <tag k="speed_limit" v="100"/>
@@ -4095,11 +4143,11 @@
     <tag k="participant:vehicle" v="yes"/>
   </relation>
   <relation id="5752">
-    <member type="way" role="left" ref="7950"/>
-    <member type="way" role="right" ref="7952"/>
+    <member type="way" role="left" ref="7957"/>
+    <member type="way" role="right" ref="7959"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
-    <tag k="speed_limit" v="30"/>
+    <tag k="speed_limit" v="50"/>
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
     <tag k="participant:vehicle" v="yes"/>
@@ -4199,7 +4247,7 @@
     <member type="way" role="right" ref="7932"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
-    <tag k="speed_limit" v="20"/>
+    <tag k="speed_limit" v="40"/>
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
     <tag k="participant:vehicle" v="yes"/>
@@ -4220,6 +4268,26 @@
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
     <tag k="speed_limit" v="100"/>
+    <tag k="location" v="urban"/>
+    <tag k="one_way" v="yes"/>
+    <tag k="participant:vehicle" v="yes"/>
+  </relation>
+  <relation id="7961">
+    <member type="way" role="left" ref="7958"/>
+    <member type="way" role="right" ref="7960"/>
+    <tag k="type" v="lanelet"/>
+    <tag k="subtype" v="road"/>
+    <tag k="speed_limit" v="50"/>
+    <tag k="location" v="urban"/>
+    <tag k="one_way" v="yes"/>
+    <tag k="participant:vehicle" v="yes"/>
+  </relation>
+  <relation id="7968">
+    <member type="way" role="left" ref="7965"/>
+    <member type="way" role="right" ref="7967"/>
+    <tag k="type" v="lanelet"/>
+    <tag k="subtype" v="road"/>
+    <tag k="speed_limit" v="20"/>
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
     <tag k="participant:vehicle" v="yes"/>
